@@ -1,4 +1,4 @@
-Continuous Integration with Jenkins on Amazon EC2
+Continuous Integration with Jenkins on Amazon EC2 server
 =================================================
 
 # testing source tree
